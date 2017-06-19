@@ -7,5 +7,6 @@ public class GitHello {
     System.out.println("Hello again again");
     System.out.println("Feature branch hello!");
     System.out.println("Feature branch another hello!");
+    System.out.println("Feature 4!");
   }
 }
